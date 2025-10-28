@@ -11,6 +11,7 @@ menu:
 # Projects Section
 
 projects:
+<H3>Hello, About Me</H3>
 - {name: 'Project One',   url: 'proj-1'}
 - {name: 'Project Two',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
