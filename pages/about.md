@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jonathan McHale Testing GitHub....
+# Jonathan McHale Test GitHub Site.
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+My name is Jonathan McHale, I am a Product Manager with +8 years experience. I am based in Dublin, Ireland. For the most part I have spent time working within the FinTech environment; from card payments to crypto. My goals are to stay competent in technical skills such as data analysis and software engineering while growing in Executive / Senior Roles. 
